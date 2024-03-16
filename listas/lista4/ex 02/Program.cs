@@ -4,15 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
-       System.Console.WriteLine("digite a altura desejada do triangulo");
+      do
+      {
+       System.Console.WriteLine("digite a altura desejada do triangulo entre 1 e 9");
        int alturatriangulo = int.Parse(Console.ReadLine());
    
        
        if(alturatriangulo<1 || alturatriangulo>9)
        {
-          System.Console.WriteLine("altura invalida insira uma altura entre 1 e 9");
-
+          System.Console.WriteLine("altura invalida!");
        }
+       
        else
        {
             for(int linha = 1; linha <= alturatriangulo; linha++)
@@ -22,9 +24,12 @@ class Program
                   System.Console.Write($"{coluna}");
                }
                System.Console.WriteLine();
+      
             
             }
+            break;
        }     
-      
+      }
+      while(true);   
     }
 }
