@@ -1,0 +1,15 @@
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\bin\Debug\net8.0\aula7.exe
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\bin\Debug\net8.0\aula7.deps.json
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\bin\Debug\net8.0\aula7.runtimeconfig.json
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\bin\Debug\net8.0\aula7.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\bin\Debug\net8.0\aula7.pdb
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.sourcelink.json
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\refint\aula7.dll
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.pdb
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\aula7.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Programacao-Procedural\Aulas\aula7\obj\Debug\net8.0\ref\aula7.dll
