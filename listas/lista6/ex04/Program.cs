@@ -6,24 +6,35 @@ class Program
 {
     static void Main(string[] args)
     {
-      int[,] num  = new int[3,3];
+      int numeros = 3;
+      int[,] num  = new int[numeros,numeros];
 
-      for(int i = 0; i < num.Length; i++)
+      for (int linha = 0; linha < numeros; linha++)
       {
-        for(int j = 0; j < num.Length; j++)
+        for (int coluna = 0; coluna < numeros; coluna++)
         {
-            num[i, j] = int.Parse(Console.ReadLine());
+           int numerodigitado = int.Parse(Console.ReadLine());
+           if(linha + coluna == 2)
+           {
+             num[linha, coluna] = numerodigitado *2;
+           }
+
+           else
+           {
+             num[linha, coluna] = numerodigitado;
+           }
         }
       }
 
-      for(int i = 0; i < num.Length; i++)
+      for (int linha = 0; linha < numeros; linha++)
       {
-        for(int j = 0; j < num.Length; j++)
+        for (int coluna = 0; coluna < numeros; coluna++)
         {
-            
+           System.Console.Write(num[linha, coluna] + "|");
         }
+        System.Console.WriteLine();
       }
 
-
+      
     }
 }    
